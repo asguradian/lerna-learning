@@ -1,11 +1,5 @@
 {
     "npmClient": "yarn",
     "useWorkspaces": true,
-    "packages": [
-        "./core",
-        "./main",
-        "./team-a",
-        "./team-b"
-    ],
-    "version": "independent"
+    "version": "2.0.0"
 }

@@ -10,7 +10,9 @@
     },
     "scripts": {
         "start": "lerna run --scope={main,team-a} start --stream",
-        "test": "lerna run test --concurrency 3"
+        "test": "lerna run test --concurrency 3",
+        "removeAll": "rm -rf node_modules/",
+        "clean": "yarn && lerna clean"
     },
     "devDependencies": {
         "lerna": "^4.0.0"
