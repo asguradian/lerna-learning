@@ -16,7 +16,7 @@ export function AppFromTeamB() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Learn React for all time..
         </a>
       </header>
     </div>
